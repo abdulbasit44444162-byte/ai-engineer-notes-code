@@ -1,2 +1,1 @@
-# ai-engineer-notes-code
-this notes is my future
+here we will write notes of ai 
